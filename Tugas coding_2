@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil saya</title>
+</head>
+
+<body>
+
+    <h1>profil saya</h1>
+
+    <h2>yooseph</h2>
+
+    <p>Nama yoseph</p>
+    <p>Kelas:IXA</p>
+    <p>Sekolah: SMP Charitas jakarta</p>
+    <p>Hobi: bermain voli</p>
+
+    <h2>Foto saya</h2>
+
+    <img src="https://asset.kgnewsroom.com/photo/pre/2025/09/27/e70de415-e245-4e2f-b3b8-ebd6a41d3505_png.png" width="360">
+
+    <h2>Foto saya lagi</h2>
+
+    <img src="https://icmi.id/assets/img/content_image/46820044aa08fe79b0615c949b3839c1.png" width="360">
+
+
+    </h2>Vidieo youtube</h2>
+
+    <iframe widht="560"
+     height="315"
+      src="https://youtu.be/0acXb24X91s?si=InNWAgAReUV4fIaw" 
+      allowfullscreen>
+    </iframe>
